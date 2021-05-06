@@ -1,7 +1,7 @@
 # UTS-PengolahCitra
 UTS Pengolah Citra - Membuat Aplikasi GUI di Matlab
 
-Berikut Link youtube : https://youtu.be/kzfRIfc_ips
+# Berikut Link youtube : https://youtu.be/kzfRIfc_ips
 
 Langkah-Langkah
 
